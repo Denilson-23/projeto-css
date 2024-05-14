@@ -78,7 +78,7 @@ p {
 
 button {
     width: 201px;
-    height: 40px;
+    height: 41px;
     background-color: #9499EA;
     border-radius: 30px;
     border: none;
@@ -124,7 +124,7 @@ button:hover {
     }
 
     h1 {
-        font-size: 36px;
+        font-size: 37px;
         text-align: center;
         margin: 30px;
     }
